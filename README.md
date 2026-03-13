@@ -29,6 +29,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bagusbatra.bagusbatra&"  />
 </div>
 
+****
+
 ###
 
 <h1 align="center">Background & Journey</h1>
