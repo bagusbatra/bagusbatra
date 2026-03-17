@@ -72,7 +72,7 @@
 
 ###
 
-<img align="right" height="150" src="assets/elips.gif"  />
+<img align="right" height="200" src="assets/elips.gif"  />
 
 ###
 
