@@ -72,6 +72,20 @@
 
 ###
 
+<img align="right" height="150" src="assets/logo.png"  />
+
+###
+
+<h3 align="left">Web & Python Programming Mentor</h3>
+
+###
+
+<p align="left">With over 1 year of professional teaching experience, I guide students in Web and Python Programming at Elips Academy. I focus on turning ideas into impactful and practical code.</p>
+
+###
+
+###
+
 <img src="https://raw.githubusercontent.com/bagusbatra/bagusbatra/output/snake.svg" alt="Snake animation" />
 
 ###
