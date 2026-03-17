@@ -72,7 +72,7 @@
 
 ###
 
-<img align="right" height="250" src="assets/logo.png"  />
+<img align="right" height="500" src="assets/logo.png"  />
 
 ###
 
