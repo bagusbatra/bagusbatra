@@ -72,6 +72,22 @@
 
 ###
 
+<h1 align="center">Experience</h1>
+
+###
+
+<img align="right" height="110" src="assets/magang.gif"  />
+
+###
+
+<h3 align="left">Web Developer Intern at PT Otak Kanan</h3>
+
+###
+
+<p align="left">I worked as a Web Programming intern at PT Otak Kanan for 6 months in 2022. I gained valuable experience in developing and maintaining web-based systems.</p>
+
+###
+
 <img align="right" height="110" src="assets/elips.gif"  />
 
 ###
@@ -81,8 +97,6 @@
 ###
 
 <p align="left">With over 1 year of professional teaching experience, I guide students in Web and Python Programming at Elips Academy. I focus on turning ideas into impactful and practical code.</p>
-
-###
 
 ###
 
