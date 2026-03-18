@@ -36,7 +36,7 @@
 
 ###
 
-<h1 align="center">Background & Journey</h1>
+<h1 align="center">Educational Background</h1>
 
 ###
 
