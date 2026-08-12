@@ -74,6 +74,16 @@ Di luar itu, saya mengajar. Sudah lebih dari satu tahun saya membimbing siswa We
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="28" alt="Vite" />
 </p>
 
+**AI Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white" height="28" alt="claude">
+  <img src="https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff" height="28" alt="opencode">
+  <img src="https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" height="28" alt="gemini">
+</p>
+
+
+
 ---
 
 ## Proyek Pilihan
@@ -84,7 +94,7 @@ Di luar itu, saya mengajar. Sudah lebih dari satu tahun saya membimbing siswa We
 | **[GL Reporting — Talenta × SAP](https://github.com/bagusbatra/GL_Reporting_Talenta_SAP)** | Menjembatani data Talenta dengan SAP untuk menghasilkan laporan General Ledger secara otomatis, menggantikan proses rekap manual. | Laravel, Blade, MySQL |
 | **[Revenue Monitoring Room](https://github.com/bagusbatra/revenue-monitoring-room)** | Dashboard pemantauan pendapatan yang menyajikan angka operasional secara real-time untuk keperluan tim manajemen. | Python |
 | **[PurchaseOrder-PurchaseRequisition_SAP](https://github.com/bagusbatra/PurchaseOrder-PurchaseRequisition_SAP)** | Dashboard kebutuhan approval/view-only sistem Purchase Order dan Purchase Requisition integrasi data dari SAP. | HTML, JavaScript |
-| **[Central Storage](https://github.com/bagusbatra/central-storage)** | Sistem penyimpanan dan distribusi berkas terpusat untuk kebutuhan lintas tim. | HTML, JavaScript |
+| **[Central Storage](https://github.com/bagusbatra/central-storage)** | Sistem dashboard penyimpanan dan distribusi material terpusat untuk kebutuhan produksi lintas tim. | HTML, JavaScript |
 | **[Web Programming Fundamental](https://github.com/bagusbatra/web-programming-fundamental)** | Kurikulum belajar web programming untuk pemula: HTML, CSS, dan JavaScript disusun bertahap lengkap dengan latihan dan proyek. | HTML, CSS, JavaScript |
 | **[Git Dasar](https://github.com/bagusbatra/git-dasar)** | Materi pengenalan Git dan GitHub sebagai sistem kontrol versi, ditulis untuk siswa yang baru pertama kali menyentuh version control. | Git, Markdown |
 
@@ -95,7 +105,7 @@ Di luar itu, saya mengajar. Sudah lebih dari satu tahun saya membimbing siswa We
 <img align="right" height="100" src="assets/kmi.gif" alt="Elips Academy" />
 
 **ERP &amp; IT Programmmer** — PT. Kayu Mebel Indonesia · 2026
-Membimbing siswa dari nol hingga mampu membangun aplikasi web sendiri. Lebih dari satu tahun pengalaman mengajar, dengan fokus pada praktik nyata: alur kerja developer, penggunaan Git, dan penyelesaian masalah yang benar-benar ditemui di lapangan.
+Mengintegrasikan sumber data lintas modul SAP dengan kebutuhan operasional harian perusahaan melalui integrasi sumber data yang terpisah, otomatisasi penyusunan laporan, dan pengembangan antarmuka yang membuat data ERP dapat diakses oleh pengguna non-teknis..
 
 <br clear="right" />
 
